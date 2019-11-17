@@ -314,6 +314,7 @@ def parsing_tool():
 def tsv_writer():
     
     import pandas as pd
+    import csv
     # for each movie, we create a tsv file in which we write all information we have
 
     for index,row in final_df_movies.iterrows():
