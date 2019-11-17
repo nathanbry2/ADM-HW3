@@ -26,4 +26,4 @@ We are group n°1 composed of:
 
 - [main.py](https://github.com/nathanbry2/ADM-HW3/blob/master/main.py): Python file that once executed builds up the search engine. 
 
-- [exercise_4.py](https://github.com/nathanbry2/ADM-HW3/blob/master/exercise_4.py): python file that contains the implementation of the algorithm that solves problem 4.
+- [exercise_4.py](https://github.com/nathanbry2/ADM-HW3/blob/master/exercise_4.py): Python file that contains the algorithm for problem 4
