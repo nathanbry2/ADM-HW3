@@ -3,8 +3,6 @@
 
 # In[ ]:
 
-
-import import_ipynb
 from parser_utils import split_names, parsing_tool, tsv_writer
 
 
